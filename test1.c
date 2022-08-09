@@ -7,3 +7,5 @@ push test
 create a new branch
 branch belong all
 branch manage
+stash 1
+stash 2
