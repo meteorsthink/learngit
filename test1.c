@@ -5,4 +5,4 @@ git stage test
 git change of files
 push test
 create a new branch
-branch belong master
+branch belong all
