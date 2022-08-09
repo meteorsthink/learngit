@@ -5,5 +5,5 @@ git stage test
 git change of files
 push test
 create a new branch
-branch belong all
+branch belong all of us
 branch manage
